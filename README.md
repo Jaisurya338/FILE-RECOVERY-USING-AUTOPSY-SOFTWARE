@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/8fc1295d-346e-4470-9030-5cb1f99edf22" /><img width="1902" height="976" alt="Screenshot 2026-09-08 115940" src="https://github.com/user-attachments/assets/f3ad046e-c561-4f39-9e14-6f8275f9aa08" />
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
 
 ## AIM
@@ -72,6 +73,14 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+
+
+<img width="1902" height="976" alt="Screenshot 2026-09-08 115940" src="https://github.com/user-attachments/assets/1710bf91-185d-4062-b8bd-39b0ffe41cdf" />
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/2ff0f66a-3c32-4df5-8568-e643f505f6e3" />
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/1288c1dc-5d1c-4131-8827-d1bade58a95e" />
+<img width="1897" height="861" alt="Screenshot 2026-09-08 120249" src="https://github.com/user-attachments/assets/a69622b5-bd5b-474a-b398-0a7408b8d46a" />
+
+
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
