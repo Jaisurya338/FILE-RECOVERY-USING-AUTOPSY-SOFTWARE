@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/8fc1295d-346e-4470-9030-5cb1f99edf22" /><img width="1902" height="976" alt="Screenshot 2026-09-08 115940" src="https://github.com/user-attachments/assets/f3ad046e-c561-4f39-9e14-6f8275f9aa08" />
+
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
 
 ## AIM
